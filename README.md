@@ -3,6 +3,7 @@
   <a href="https://github.com/inacio-gpi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inacio-gpi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacio-gpi&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" alt="Gui-pic" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
  
 ### Currently working with:
@@ -18,7 +19,6 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="right" alt="Gui-pic" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">>
 </div>
   
   ##
