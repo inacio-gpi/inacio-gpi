@@ -3,7 +3,7 @@
   <a href="https://github.com/inacio-gpi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inacio-gpi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacio-gpi&layout=compact&langs_count=7&theme=dark"/>
-  <img align="center" alt="Gui-pic" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <img align="" alt="Gui-pic" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
  
 ### Currently working with:
